@@ -4,7 +4,7 @@
 
 Bare-metal peripheral drivers written in C for the STM32F407VGT6
 
-microcontroller using register-level programming without STM32 HAL.
+microcontroller using register-level programming without STM32 HAL/LL.
 
 
 
